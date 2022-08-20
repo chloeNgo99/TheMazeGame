@@ -12,7 +12,7 @@ During the game, users will have to find a way to exist in the maze and earn poi
 ## Build With
 Language: C++
 
-Website: https://www.onlinegdb.com/edit/IUlv79q_m
+Website: https://onlinegdb.com/_gkoeNK6rF
 
 
 ## Map levels
