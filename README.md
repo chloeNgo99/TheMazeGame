@@ -27,4 +27,4 @@ Never win map
 ## How The Game Works In The Console
 Every time the users enter the “WASD” key, the game will render the map file again but with a different position of the “P” character until the users either win or lose the game.
 
-Users will be able to see how many coins they have earned while playing and a summary chart will show up at the end of the game.
+Users will be able to see how many coins they have earned while playing and a summary chart will show up at the end of the game. 
