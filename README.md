@@ -1,4 +1,4 @@
-# snakeGame
+#The Maze Game
 
 ## Project Introduction
 This project is based on the 1976 snake game version.
